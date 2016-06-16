@@ -1,4 +1,4 @@
-### Aquarela
+### NOISE II
 
 ![artwork](dist/thumbnail.jpg)
 
